@@ -1,6 +1,4 @@
-# GIT LOGO
-
-<!-- ![Adrian Sachajdakiewicz HomePage](images/share.png) -->
+# CSS Git Logo
 
 ## Table of content
 1. Demo
@@ -14,7 +12,8 @@ https://adriansacha.github.io/css-git-logo/
 ## 📒 Description
 Animated logo of GIT. Created using CSS.
 ## 👀 Preview
-coming
+![GiT LOGO](gitLogo.gif)
+
 
 ## 💻 Technologies
 * HTML
